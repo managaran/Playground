@@ -22,12 +22,12 @@ When a user visits localhost:5000/play/(x), have it display the beautiful lookin
 
 When a user visits localhost:5000/play/(x)/(color), have it display beautiful looking boxes x times, but this time where the boxes appear in (color). For example, localhost:5000/play/5/green would display 5 beautiful green boxes. Calling localhost:5000/play/35/red would display 35 beautiful red boxes. 
 
-- [ ] Create a new Flask project
+- Create a new Flask project
 
-- [ ] Have the /play route render a template with 3 blue boxes
+- Have the /play route render a template with 3 blue boxes
 
-- [ ] ave the /play/<x> route render a template with x number of blue boxes
+- Have the /play/<x> route render a template with x number of blue boxes
 
-- [ ] Have the /play/<x>/<color> route render a template with x number of boxes the color of the provided value
+- Have the /play/<x>/<color> route render a template with x number of boxes the color of the provided value
 
-- [ ] NINJA BONUS: Use only one template for the whole project
+- NINJA BONUS: Use only one template for the whole project
